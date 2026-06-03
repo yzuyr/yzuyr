@@ -8,6 +8,6 @@ on a mission to put vanilla ts web on the map.
 - [areia](https://github.com/ilhajs/areia) — lightweight UI kit tailored for Ilha
 - [quando](https://github.com/yzuyr/quando) — typed pattern matching and utils for Ilha
 
-
-ryuzer@proton.me
-Discord: yzuyr
+Reach out:
+- ryuzer@proton.me
+- Discord: yzuyr

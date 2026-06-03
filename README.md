@@ -10,3 +10,4 @@ on a mission to put vanilla ts web on the map.
 
 
 ryuzer@proton.me
+Discord: yzuyr
